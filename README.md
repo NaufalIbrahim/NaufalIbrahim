@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, programming, computer system, cyber security, social engineering, history, geopolitics, geology, and geophysical survey
 - 🌱 I’m currently learning Web development, PHP, SQL, Python, Kali linux, Web exploitation, and geophysical surveying methods
 - 💞️ I’m looking to collaborate on Web developing and Penetration testing 
-- 📫 Reach out me on linkedin.com/in/naufal-ibrahim 
+- 📫 Reach me out on linkedin.com/in/naufal-ibrahim 
 
 
 
